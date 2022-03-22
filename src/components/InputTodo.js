@@ -17,21 +17,22 @@ class InputTodo extends Component {
 
     // Clear Data
     this.setState({
-      title: ''
+      // title: ''
     })
   }
 
   render() {
     return (
-      <form onSubmit={this.handleSubmit}>
+      <form onSubmit={this.handleSubmit} className="form-container">
         <input
           type="text"
+          className="input-text"
           placeholder="Add todo..."
           value={this.state.title}
           name="title"
           onChange={this.onChange}
         />
-        <button>新增</button>
+        <button className="input-submit">新增</button>
       </form>
     )
   }
