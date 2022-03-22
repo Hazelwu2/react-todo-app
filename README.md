@@ -1,6 +1,7 @@
 # Todo React
-![Cover](./todo-cover.png)
 This is a proejct to practice React.js
+<br>
+![Cover](./todo-cover.png)
 
 ## How to start
 ```
