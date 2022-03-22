@@ -8,4 +8,4 @@ yarn install & yarn start
 ```
 
 ## Reference
-- [](https://ibaslogic.com/how-to-edit-todos-items-in-react/)
+- [React Tutorial for Beginners](https://ibaslogic.com/how-to-edit-todos-items-in-react/)
